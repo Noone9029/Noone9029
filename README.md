@@ -1,16 +1,60 @@
-## Hi there 👋
+# 👋 Hi, I'm Muhammad Ahmad
 
-<!--
-**Noone9029/Noone9029** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Developer | 📊 Data Analyst  
+🚀 Passionate about building scalable applications and extracting insights from data.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+I am a software developer and data analyst focused on building efficient, scalable, and data-driven solutions.  
+My work combines **software engineering, analytics, and modern web technologies** to turn ideas into reliable products and meaningful insights.
+
+- 🔭 Currently working on improving my full-stack development and data analysis skills
+- 📊 Interested in data science, analytics, and machine learning
+- ⚙️ Love building tools, dashboards, and automation systems
+- 🚀 Always learning new technologies and solving real-world problems
+
+---
+
+## 🧠 Tech Stack
+
+### Languages
+- Python
+- JavaScript
+- SQL
+- TypeScript
+
+### Development
+- React
+- Node.js
+- REST APIs
+- Git & GitHub
+
+### Data & Analytics
+- Pandas
+- NumPy
+- Power BI
+- Excel
+- Data Visualization
+
+---
+
+## 📈 What I Like Working On
+
+- Web applications
+- Data analysis and dashboards
+- Automation tools
+- Backend systems
+- Data-driven decision tools
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: (https://www.linkedin.com/in/muhammad-ahmad-607718259/)
+- Email: (ahmadkhalid1340@gmail.com)
+
+---
+
+⭐ *Always building, always learning.*
