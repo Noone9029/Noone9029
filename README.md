@@ -7,7 +7,7 @@
 
 ## 👨‍💻 About Me
 
-I am a software developer and data analyst focused on building efficient, scalable, and data-driven solutions.  
+I am a full stack software developer and data analyst focused on building efficient, scalable, and data-driven solutions.  
 My work combines **software engineering, analytics, and modern web technologies** to turn ideas into reliable products and meaningful insights.
 
 - 🔭 Currently working on improving my full-stack development and data analysis skills
@@ -24,10 +24,13 @@ My work combines **software engineering, analytics, and modern web technologies*
 - JavaScript
 - SQL
 - TypeScript
+- Next.JS
+- Laravel
 
 ### Development
 - React
 - Node.js
+- Nest.js
 - REST APIs
 - Git & GitHub
 
