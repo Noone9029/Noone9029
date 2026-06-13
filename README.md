@@ -31,6 +31,7 @@ My work combines **software engineering, analytics, and modern web technologies*
 - React
 - Node.js
 - Nest.js
+- Django
 - REST APIs
 - Git & GitHub
 
